@@ -1,12 +1,15 @@
 function show_origin()
 
+% code to show origin in the figure
+
+dir_vec_len = 50;
 hold on;
-scatter3d(part_ptcloud,'.b');
+scatter3(0,0,0,50,'d','filled','k');
 hold on;
-scatter3(m0(1),m0(2),m0(3),100,'d','filled','b');
+quiver3(0,0,0,1,0,0,dir_vec_len,'r');
 hold on;
-quiver3(m0(1),m0(2),m0(3),1,0,0,100,'r');hold on;quiver3(m0(1),m0(2),m0(3),0,1,0,100,'g');hold on;quiver3(m0(1),m0(2),m0(3),0,0,1,100,'b');
+quiver3(0,0,0,0,1,0,dir_vec_len,'g');
 hold on;
-scatter3d(scan_ptcloud,'.r');
+quiver3(0,0,0,0,0,1,dir_vec_len,'b');
 hold on;
 end
