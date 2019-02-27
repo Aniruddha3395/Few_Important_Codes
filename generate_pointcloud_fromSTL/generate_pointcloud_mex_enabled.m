@@ -56,6 +56,3 @@ ptcloud_normals = ptcloud_normals(1:idx_start-1,:);
     end
 
 end
-
-
-
