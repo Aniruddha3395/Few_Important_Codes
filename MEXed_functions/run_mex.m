@@ -14,3 +14,5 @@ mex -R2018a quat2rotm_mex.cpp;
 mex -R2018a rotm2quat_mex.cpp;
 mex -R2018a quat2eul_mex.cpp;
 mex -R2018a eul2quat_mex.cpp;
+mex -R2018a getLsfPlane_mex.cpp;
+
