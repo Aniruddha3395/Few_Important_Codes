@@ -2,7 +2,11 @@ function show_origin()
 
 % code to show origin in the figure
 
-dir_vec_len = 50;
+% use this for meters
+dir_vec_len = 0.050;
+% use this for mm
+% dir_vec_len = 50;
+
 hold on;
 scatter3(0,0,0,50,'d','filled','k');
 hold on;
