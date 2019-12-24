@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [xyz_cba_transformed] = apply_transformation_to_xyz_cba(xyz_cba,transformation_matrix)
 % code for applying transformation on xyz points as well as euler angles
 % orientation

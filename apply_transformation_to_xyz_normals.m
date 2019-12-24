@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [xyz_n_transformed] = apply_transformation_to_xyz_normals(xyz_n,transformation_matrix)
 % code for applying transformation on xyz points as well as normals
 % vectors bx, by and bz

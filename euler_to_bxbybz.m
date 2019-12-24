@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 %% Compute bx, by, bz from Euler Angles
 
 function [bx,by,bz] = euler_to_bxbybz(abc)

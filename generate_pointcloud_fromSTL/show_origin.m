@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function show_origin()
 
 % code to show origin in the figure

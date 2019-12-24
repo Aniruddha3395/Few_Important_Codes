@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [bx,by,bz] = compute_TCP_new(points,normals)
 
 % tcp computating...bx,by,bz

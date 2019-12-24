@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [Transformation] = rob_T_part(part_pts,rob_pts)
 
 % part with respect to robot transformation 

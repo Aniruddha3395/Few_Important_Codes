@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [ptcloud,ptcloud_normals] = generate_pointcloud_mex_enabled(v,f,n,gap_x,gap_y)
 
 % code to generate uniformly sampled data points on STL

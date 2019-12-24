@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function showTransformFrame(T)
 
 % code to show origin in the figure

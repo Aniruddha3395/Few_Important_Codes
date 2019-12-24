@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [dist_p_plane] = getPtToLsfPlaneDist(p,pts_for_plane)
 
 [A,B,C,D] = getLsfPlane(pts_for_plane);

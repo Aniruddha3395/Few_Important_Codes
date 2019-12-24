@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function in = inPolygon(q,p)
 
 %     p : polygon points

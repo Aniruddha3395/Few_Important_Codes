@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [] = scatter2d(data,scatter_style)
 
 if isempty(scatter_style)==1

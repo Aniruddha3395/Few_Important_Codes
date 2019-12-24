@@ -1,3 +1,5 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of Southern California
+
 % run this file to mex all the .cpp codes.
 % NOTE: need to have the eigen c++ libarary installed (http://eigen.tuxfamily.org/index.php?title=Main_Page)
 

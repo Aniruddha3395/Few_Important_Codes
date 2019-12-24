@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 %% Compute Euler Angles from bx, by, bz
 
 function [abc,R] = bxbybz_to_euler(bx,by,bz)

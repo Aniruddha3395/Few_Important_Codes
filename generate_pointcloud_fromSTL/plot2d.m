@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [] = plot2d(data,line_color)
 
 if isempty(line_color)==1

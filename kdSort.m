@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function points = kdSort(points,m,n)
        sorted_data = [];
        for i = 1:m-1

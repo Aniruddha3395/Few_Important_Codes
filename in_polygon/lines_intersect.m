@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function r = lines_intersect(l1,l2)
 
 r = -1;

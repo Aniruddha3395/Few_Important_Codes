@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [] = view_stl(part_stl,face_vertex_data,face_color,opacity,edge_color)
 
 [v_part, f_part, n_part, stltitle_part] = stlRead(part_stl);

@@ -1,3 +1,5 @@
+// Author    : Aniruddha Shembekar, Research Engineer, University of Southern California
+
 #include "mex.h"
 #include "matrix.h"
 #include <iostream>

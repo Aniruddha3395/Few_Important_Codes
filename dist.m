@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [row_wise_dist] = dist(A,B)
 % row wise distance between all pairs of A and B...
 % i.e. [a1-b1;a2-b2;....an-bn]...where ai and bi are vectors

@@ -1,3 +1,6 @@
+% Author    : Aniruddha Shembekar, Research Engineer, University of
+% Southern California
+
 function [pts] = Generate_Grid_Points(pathgap_x,pathgap_y,xmin,ymin,xmax,ymax)
 
 % Function to generate the uniform mesh grid of points along the x-y plane.
