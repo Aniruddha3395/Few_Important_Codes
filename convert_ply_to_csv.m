@@ -1,5 +1,8 @@
-% Author    : Aniruddha Shembekar, Research Engineer, University of
-% Southern California
+%****************************************************************************************
+%
+% Author : Aniruddha Shembekar, University of Southern California
+%
+%****************************************************************************************
 
 function pts = convert_ply_to_csv(file_name)
 

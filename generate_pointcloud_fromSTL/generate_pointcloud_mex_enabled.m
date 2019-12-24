@@ -1,5 +1,8 @@
-% Author    : Aniruddha Shembekar, Research Engineer, University of
-% Southern California
+%****************************************************************************************
+%
+% Author : Aniruddha Shembekar, University of Southern California
+%
+%****************************************************************************************
 
 function [ptcloud,ptcloud_normals] = generate_pointcloud_mex_enabled(v,f,n,gap_x,gap_y)
 

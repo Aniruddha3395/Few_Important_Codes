@@ -1,5 +1,8 @@
-% Author    : Aniruddha Shembekar, Research Engineer, University of
-% Southern California
+%****************************************************************************************
+%
+% Author : Aniruddha Shembekar, University of Southern California
+%
+%****************************************************************************************
 
 function [] = view_stl(part_stl,face_vertex_data,face_color,opacity,edge_color)
 

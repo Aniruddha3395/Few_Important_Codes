@@ -1,5 +1,8 @@
-% Author    : Aniruddha Shembekar, Research Engineer, University of
-% Southern California
+%****************************************************************************************
+%
+% Author : Aniruddha Shembekar, University of Southern California
+%
+%****************************************************************************************
 
 function show_origin()
 

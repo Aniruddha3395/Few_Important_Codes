@@ -1,5 +1,8 @@
-% Author    : Aniruddha Shembekar, Research Engineer, University of
-% Southern California
+%****************************************************************************************
+%
+% Author : Aniruddha Shembekar, University of Southern California
+%
+%****************************************************************************************
 
 function [A,B,C,D] = getLsfPlane(pts_for_plane)
 

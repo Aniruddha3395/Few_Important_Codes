@@ -1,5 +1,8 @@
-% Author    : Aniruddha Shembekar, Research Engineer, University of
-% Southern California
+%****************************************************************************************
+%
+% Author : Aniruddha Shembekar, University of Southern California
+%
+%****************************************************************************************
 
 function [transformed_data] = apply_transformation(data,transformation_matrix)
 % NOTE: Homogeneous Tranformation Matrix (4x4)

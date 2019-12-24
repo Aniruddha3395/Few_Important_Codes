@@ -1,5 +1,9 @@
-% Authors    : Ariyan Kabir, Post Doctoral Researcher, University of Southern California; 
-%            : Aniruddha Shembekar, Research Engineer, University of Southern California
+%****************************************************************************************
+%
+% Authors : Ariyan Kabir, University of Southern California,
+%           Aniruddha Shembekar, University of Southern California
+%
+%****************************************************************************************
 
 function [waypoints] = sequence_points(data)
 %input as xyz data
